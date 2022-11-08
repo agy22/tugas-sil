@@ -1,0 +1,5281 @@
+{
+  "rules": [
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["color", "blue"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["color", "blue"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["color", "blue"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["color", "blue"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["color", "blue"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["color", "blue"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "transparent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", "2.7"],
+        ["diaphaneity", "translucent"],
+        ["crystal-system", "hexagonal"]
+      ],
+      [
+        ["mineral", "calcite"],
+        ["chemical-composition", "carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["weathered", "false"],
+        ["streak", "green"],
+        ["color", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=3.5"],
+        ["hardness", "<=4"],
+        ["specific-graivity", ">=4.1"],
+        ["specific-gravity", "<=4.3"],
+        ["fracture", "irregular"],
+        ["diaphaneity", "opaque"],
+        ["cleavage", "poor"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "tetragonal"]
+      ],
+      [
+        ["mineral", "chalcopyrite"],
+        ["chemical-composition", "copper iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["weathered", "false"],
+        ["streak", "green"],
+        ["color", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=3.5"],
+        ["hardness", "<=4"],
+        ["specific-graivity", ">=4.1"],
+        ["specific-gravity", "<=4.3"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"],
+        ["cleavage", "poor"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "tetragonal"]
+      ],
+      [
+        ["mineral", "chalcopyrite"],
+        ["chemical-composition", "copper iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["color", "green"],
+        ["weathered", "true"],
+        ["streak", "green"],
+        ["color", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=3.5"],
+        ["hardness", "<=4"],
+        ["specific-graivity", ">=4.1"],
+        ["specific-gravity", "<=4.3"],
+        ["fracture", "irregular"],
+        ["diaphaneity", "opaque"],
+        ["cleavage", "poor"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "tetragonal"]
+      ],
+      [
+        ["mineral", "chalcopyrite"],
+        ["chemical-composition", "copper iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["color", "green"],
+        ["weathered", "true"],
+        ["streak", "green"],
+        ["color", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=3.5"],
+        ["hardness", "<=4"],
+        ["specific-graivity", ">=4.1"],
+        ["specific-gravity", "<=4.3"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"],
+        ["cleavage", "poor"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "tetragonal"]
+      ],
+      [
+        ["mineral", "chalcopyrite"],
+        ["chemical-composition", "copper iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["color", "green"],
+        ["iridescence", "red"],
+        ["weathered", "true"],
+        ["streak", "green"],
+        ["color", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=3.5"],
+        ["hardness", "<=4"],
+        ["specific-graivity", ">=4.1"],
+        ["specific-gravity", "<=4.3"],
+        ["fracture", "irregular"],
+        ["diaphaneity", "opaque"],
+        ["cleavage", "poor"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "tetragonal"]
+      ],
+      [
+        ["mineral", "chalcopyrite"],
+        ["chemical-composition", "copper iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["color", "green"],
+        ["iridescence", "red"],
+        ["weathered", "true"],
+        ["streak", "green"],
+        ["color", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=3.5"],
+        ["hardness", "<=4"],
+        ["specific-graivity", ">=4.1"],
+        ["specific-gravity", "<=4.3"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"],
+        ["cleavage", "poor"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "tetragonal"]
+      ],
+      [
+        ["mineral", "chalcopyrite"],
+        ["chemical-composition", "copper iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["color", "green"],
+        ["iridescence", "blue"],
+        ["weathered", "true"],
+        ["streak", "green"],
+        ["color", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=3.5"],
+        ["hardness", "<=4"],
+        ["specific-graivity", ">=4.1"],
+        ["specific-gravity", "<=4.3"],
+        ["fracture", "irregular"],
+        ["diaphaneity", "opaque"],
+        ["cleavage", "poor"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "tetragonal"]
+      ],
+      [
+        ["mineral", "chalcopyrite"],
+        ["chemical-composition", "copper iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["color", "green"],
+        ["iridescence", "blue"],
+        ["weathered", "true"],
+        ["streak", "green"],
+        ["color", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=3.5"],
+        ["hardness", "<=4"],
+        ["specific-graivity", ">=4.1"],
+        ["specific-gravity", "<=4.3"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"],
+        ["cleavage", "poor"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "tetragonal"]
+      ],
+      [
+        ["mineral", "chalcopyrite"],
+        ["chemical-composition", "copper iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["color", "green"],
+        ["iridescence", "purple"],
+        ["weathered", "true"],
+        ["streak", "green"],
+        ["color", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=3.5"],
+        ["hardness", "<=4"],
+        ["specific-graivity", ">=4.1"],
+        ["specific-gravity", "<=4.3"],
+        ["fracture", "irregular"],
+        ["diaphaneity", "opaque"],
+        ["cleavage", "poor"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "tetragonal"]
+      ],
+      [
+        ["mineral", "chalcopyrite"],
+        ["chemical-composition", "copper iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["color", "green"],
+        ["iridescence", "purple"],
+        ["weathered", "true"],
+        ["streak", "green"],
+        ["color", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=3.5"],
+        ["hardness", "<=4"],
+        ["specific-graivity", ">=4.1"],
+        ["specific-gravity", "<=4.3"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"],
+        ["cleavage", "poor"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "tetragonal"]
+      ],
+      [
+        ["mineral", "chalcopyrite"],
+        ["chemical-composition", "copper iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["location", "sulfide mineral deposit"],
+        ["crystal-system", "tetragonal"]
+      ],
+      [
+        ["mineral", "chalcopyrite"],
+        ["chemical-composition", "copper iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=2.5"],
+        ["specific-gravity", "<=2.8"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "feldspar"],
+        ["chemical-composition", "silicate"],
+        ["crystal-system", "monoclinic"]
+      ]
+    ],
+    [
+      [
+        ["color", "pink"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=2.5"],
+        ["specific-gravity", "<=2.8"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "feldspar"],
+        ["chemical-composition", "silicate"],
+        ["crystal-system", "monoclinic"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=2.5"],
+        ["specific-gravity", "<=2.8"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "feldspar"],
+        ["chemical-composition", "silicate"],
+        ["crystal-system", "monoclinic"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=2.5"],
+        ["specific-gravity", "<=2.8"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "feldspar"],
+        ["chemical-composition", "silicate"],
+        ["crystal-system", "monoclinic"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=2.5"],
+        ["specific-gravity", "<=2.8"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "feldspar"],
+        ["chemical-composition", "silicate"],
+        ["crystal-system", "monoclinic"]
+      ]
+    ],
+    [
+      [
+        ["color", "orange"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=2.5"],
+        ["specific-gravity", "<=2.8"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "feldspar"],
+        ["chemical-composition", "silicate"],
+        ["crystal-system", "monoclinic"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=2.5"],
+        ["specific-gravity", "<=2.8"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "feldspar"],
+        ["chemical-composition", "silicate"],
+        ["crystal-system", "monoclinic"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=2.5"],
+        ["specific-gravity", "<=2.8"],
+        ["fracture", "uneven"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "feldspar"],
+        ["chemical-composition", "silicate"],
+        ["crystal-system", "monoclinic"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "ignous"],
+        ["location", "hydrothermal vein"],
+        ["color", "silver"],
+        ["luster", "metallic"],
+        ["specific-gravity", ">=7.4"],
+        ["specific-gravity", "<=7.6"],
+        ["hardness", ">=2.5"],
+        ["streak", "grey"],
+        ["crystal-system", "isometric"]
+      ],
+      [
+        ["mineral", "galena"],
+        ["chemical-composition", "lead sulfide"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "ignous"],
+        ["location", "hydrothermal vein"],
+        ["color", "silver"],
+        ["luster", "metallic"],
+        ["specific-gravity", ">=7.4"],
+        ["specific-gravity", "<=7.6"],
+        ["hardness", ">=2.5"],
+        ["streak", "black"],
+        ["crystal-system", "isometric"]
+      ],
+      [
+        ["mineral", "galena"],
+        ["chemical-composition", "lead sulfide"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "ignous"],
+        ["location", "hydrothermal vein"],
+        ["color", "grey"],
+        ["weathered", "true"],
+        ["luster", "metallic"],
+        ["specific-gravity", ">=7.4"],
+        ["specific-gravity", "<=7.6"],
+        ["hardness", ">=2.5"],
+        ["streak", "grey"],
+        ["crystal-system", "isometric"]
+      ],
+      [
+        ["mineral", "galena"],
+        ["chemical-composition", "lead sulfide"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "ignous"],
+        ["location", "hydrothermal vein"],
+        ["color", "grey"],
+        ["weathered", "true"],
+        ["luster", "metallic"],
+        ["specific-gravity", ">=7.4"],
+        ["specific-gravity", "<=7.6"],
+        ["hardness", ">=2.5"],
+        ["streak", "black"],
+        ["crystal-system", "isometric"]
+      ],
+      [
+        ["mineral", "galena"],
+        ["chemical-composition", "lead sulfide"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["location", "hydrothermal vein"],
+        ["color", "silver"],
+        ["luster", "metallic"],
+        ["specific-gravity", ">=7.4"],
+        ["specific-gravity", "<=7.6"],
+        ["hardness", ">=2.5"],
+        ["streak", "grey"],
+        ["crystal-system", "isometric"]
+      ],
+      [
+        ["mineral", "galena"],
+        ["chemical-composition", "lead sulfide"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["location", "hydrothermal vein"],
+        ["color", "silver"],
+        ["luster", "metallic"],
+        ["specific-gravity", ">=7.4"],
+        ["specific-gravity", "<=7.6"],
+        ["hardness", ">=2.5"],
+        ["streak", "black"],
+        ["crystal-system", "isometric"]
+      ],
+      [
+        ["mineral", "galena"],
+        ["chemical-composition", "lead sulfide"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["location", "hydrothermal vein"],
+        ["color", "grey"],
+        ["weathered", "true"],
+        ["luster", "metallic"],
+        ["specific-gravity", ">=7.4"],
+        ["specific-gravity", "<=7.6"],
+        ["hardness", ">=2.5"],
+        ["streak", "grey"],
+        ["crystal-system", "isometric"]
+      ],
+      [
+        ["mineral", "galena"],
+        ["chemical-composition", "lead sulfide"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["location", "hydrothermal vein"],
+        ["color", "grey"],
+        ["weathered", "true"],
+        ["luster", "metallic"],
+        ["specific-gravity", ">=7.4"],
+        ["specific-gravity", "<=7.6"],
+        ["hardness", ">=2.5"],
+        ["streak", "black"],
+        ["crystal-system", "isometric"]
+      ],
+      [
+        ["mineral", "galena"],
+        ["chemical-composition", "lead sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "red"],
+        ["luster", "earthy"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "false"],
+        ["diaphaneity", "opaque"]
+      ],
+      [["mineral", "hematite"]]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "red"],
+        ["luster", "earthy"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "true"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "hematite"],
+        ["mineral", "magnetite"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "red"],
+        ["luster", "sub-metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "false"],
+        ["diaphaneity", "opaque"]
+      ],
+      [["mineral", "hematite"]]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "red"],
+        ["luster", "sub-metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "true"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "hematite"],
+        ["mineral", "magnetite"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "red"],
+        ["luster", "metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "false"],
+        ["diaphaneity", "opaque"]
+      ],
+      [["mineral", "hematite"]]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "red"],
+        ["luster", "metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "true"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "hematite"],
+        ["mineral", "magnetite"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["color", "black"],
+        ["streak", "red"],
+        ["luster", "earthy"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "false"],
+        ["diaphaneity", "opaque"]
+      ],
+      [["mineral", "hematite"]]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["color", "black"],
+        ["streak", "red"],
+        ["luster", "earthy"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "true"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "hematite"],
+        ["mineral", "magnetite"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["color", "black"],
+        ["streak", "red"],
+        ["luster", "sub-metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "false"],
+        ["diaphaneity", "opaque"]
+      ],
+      [["mineral", "hematite"]]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["color", "black"],
+        ["streak", "red"],
+        ["luster", "sub-metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "true"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "hematite"],
+        ["mineral", "magnetite"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["color", "black"],
+        ["streak", "red"],
+        ["luster", "metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "false"],
+        ["diaphaneity", "opaque"]
+      ],
+      [["mineral", "hematite"]]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["color", "black"],
+        ["streak", "red"],
+        ["luster", "metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "true"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "hematite"],
+        ["mineral", "magnetite"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "red"],
+        ["luster", "earthy"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "false"],
+        ["diaphaneity", "opaque"]
+      ],
+      [["mineral", "hematite"]]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "red"],
+        ["luster", "earthy"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "true"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "hematite"],
+        ["mineral", "magnetite"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "red"],
+        ["luster", "sub-metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "false"],
+        ["diaphaneity", "opaque"]
+      ],
+      [["mineral", "hematite"]]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "red"],
+        ["luster", "sub-metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "true"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "hematite"],
+        ["mineral", "magnetite"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "red"],
+        ["luster", "metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "false"],
+        ["diaphaneity", "opaque"]
+      ],
+      [["mineral", "hematite"]]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "red"],
+        ["luster", "metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "true"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "hematite"],
+        ["mineral", "magnetite"]
+      ]
+    ],
+    [
+      [
+        ["color", "silver"],
+        ["streak", "red"],
+        ["luster", "earthy"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "false"],
+        ["diaphaneity", "opaque"]
+      ],
+      [["mineral", "hematite"]]
+    ],
+    [
+      [
+        ["color", "silver"],
+        ["streak", "red"],
+        ["luster", "earthy"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "true"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "hematite"],
+        ["mineral", "magnetite"]
+      ]
+    ],
+    [
+      [
+        ["color", "silver"],
+        ["streak", "red"],
+        ["luster", "sub-metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "false"],
+        ["diaphaneity", "opaque"]
+      ],
+      [["mineral", "hematite"]]
+    ],
+    [
+      [
+        ["color", "silver"],
+        ["streak", "red"],
+        ["luster", "sub-metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "true"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "hematite"],
+        ["mineral", "magnetite"]
+      ]
+    ],
+    [
+      [
+        ["color", "silver"],
+        ["streak", "red"],
+        ["luster", "metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "false"],
+        ["diaphaneity", "opaque"]
+      ],
+      [["mineral", "hematite"]]
+    ],
+    [
+      [
+        ["color", "silver"],
+        ["streak", "red"],
+        ["luster", "metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=5"],
+        ["specific-gravity", "<=5.3"],
+        ["magnetic", "true"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "hematite"],
+        ["mineral", "magnetite"]
+      ]
+    ],
+    [
+      [
+        ["color", "black"],
+        ["streak", "black"],
+        ["magnetic", "true"],
+        ["luster", "metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", "5.2"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "uneven"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "isometric"]
+      ],
+      [
+        ["mineral", "magnetite"],
+        ["chemical-composition", "iron oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "silver"],
+        ["streak", "black"],
+        ["magnetic", "true"],
+        ["luster", "metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", "5.2"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "uneven"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "isometric"]
+      ],
+      [
+        ["mineral", "magnetite"],
+        ["chemical-composition", "iron oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "black"],
+        ["magnetic", "true"],
+        ["luster", "metallic"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", "5.2"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "uneven"],
+        ["tenacity", "brittle"],
+        ["crystal-system", "isometric"]
+      ],
+      [
+        ["mineral", "magnetite"],
+        ["chemical-composition", "iron oxide"]
+      ]
+    ],
+    [[["mineral", "magnetite"]], [["chemical-composition", "iron oxide"]]],
+    [
+      [
+        ["color", "purple"],
+        ["streak", "white"],
+        ["luster", "pearly"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "purple"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "purple"],
+        ["streak", "colorless"],
+        ["luster", "pearly"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "purple"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "rosy"],
+        ["streak", "white"],
+        ["luster", "pearly"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "rosy"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "rosy"],
+        ["streak", "colorless"],
+        ["luster", "pearly"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "rosy"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "silver"],
+        ["streak", "white"],
+        ["luster", "pearly"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "silver"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "silver"],
+        ["streak", "colorless"],
+        ["luster", "pearly"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "silver"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "pearly"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "colorless"],
+        ["luster", "pearly"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "pearly"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "pearly"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "pearly"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "colorless"],
+        ["luster", "pearly"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=2.8"],
+        ["specific-gravity", "<=3"],
+        ["crystal-system", "pseudohexagonal"],
+        ["fracture", "flaky"],
+        ["cleavage", "almost perfect"]
+      ],
+      [
+        ["mineral", "mica"],
+        ["chemical-composition", "phyllosilicates"]
+      ]
+    ],
+    [
+      [
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "7"],
+        ["specific-gravity", ">=2.6"],
+        ["specific-gravity", "<=2.7"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"]
+      ],
+      [
+        ["mineral", "quartz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "7"],
+        ["specific-gravity", ">=2.6"],
+        ["specific-gravity", "<=2.7"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"]
+      ],
+      [
+        ["mineral", "quartz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["streak", "white"],
+        ["luster", "pearly"],
+        ["hardness", "1"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=2.8"],
+        ["crystal-system", "monoclinic"],
+        ["fracture", "flaky"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "talc"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["streak", "green"],
+        ["luster", "pearly"],
+        ["hardness", "1"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=2.8"],
+        ["crystal-system", "monoclinic"],
+        ["fracture", "flaky"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "talc"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "pearly"],
+        ["hardness", "1"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=2.8"],
+        ["crystal-system", "monoclinic"],
+        ["fracture", "flaky"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "talc"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "green"],
+        ["luster", "pearly"],
+        ["hardness", "1"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=2.8"],
+        ["crystal-system", "monoclinic"],
+        ["fracture", "flaky"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "talc"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "pearly"],
+        ["hardness", "1"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=2.8"],
+        ["crystal-system", "monoclinic"],
+        ["fracture", "flaky"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "talc"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "green"],
+        ["luster", "pearly"],
+        ["hardness", "1"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=2.8"],
+        ["crystal-system", "monoclinic"],
+        ["fracture", "flaky"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "talc"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "pearly"],
+        ["hardness", "1"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=2.8"],
+        ["crystal-system", "monoclinic"],
+        ["fracture", "flaky"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "talc"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "green"],
+        ["luster", "pearly"],
+        ["hardness", "1"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=2.8"],
+        ["crystal-system", "monoclinic"],
+        ["fracture", "flaky"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "talc"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "pearly"],
+        ["hardness", "1"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=2.8"],
+        ["crystal-system", "monoclinic"],
+        ["fracture", "flaky"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "talc"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "green"],
+        ["luster", "pearly"],
+        ["hardness", "1"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=2.8"],
+        ["crystal-system", "monoclinic"],
+        ["fracture", "flaky"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"]
+      ],
+      [
+        ["mineral", "talc"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=3.5"],
+        ["specific-gravity", "2.4"],
+        ["luster", "vitreous"],
+        ["luster", "dull"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "gibsite"],
+        ["chemical-composition", "aluminium hydroxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=3.5"],
+        ["specific-gravity", "2.4"],
+        ["luster", "vitreous"],
+        ["luster", "dull"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "gibsite"],
+        ["chemical-composition", "aluminium hydroxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=3.5"],
+        ["specific-gravity", "2.4"],
+        ["luster", "vitreous"],
+        ["luster", "dull"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "gibsite"],
+        ["chemical-composition", "aluminium hydroxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["streak", "white"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=3.5"],
+        ["specific-gravity", "2.4"],
+        ["luster", "vitreous"],
+        ["luster", "dull"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "gibsite"],
+        ["chemical-composition", "aluminium hydroxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "light green"],
+        ["streak", "white"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=3.5"],
+        ["specific-gravity", "2.4"],
+        ["luster", "vitreous"],
+        ["luster", "dull"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "gibsite"],
+        ["chemical-composition", "aluminium hydroxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["color", "brown"],
+        ["streak", "white"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=3.5"],
+        ["specific-gravity", "2.4"],
+        ["luster", "vitreous"],
+        ["luster", "dull"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "gibsite"],
+        ["chemical-composition", "aluminium hydroxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "black"],
+        ["hardness", ">=1"],
+        ["hardness", "<=2"],
+        ["specific-gravity", ">=2.1"],
+        ["specific-gravity", "<=2.3"],
+        ["crystal-system", "hexagonal"],
+        ["luster", "metallic"]
+      ],
+      [
+        ["mineral", "graphite"],
+        ["chemical-composition", "carbon"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "black"],
+        ["hardness", ">=1"],
+        ["hardness", "<=2"],
+        ["specific-gravity", ">=2.1"],
+        ["specific-gravity", "<=2.3"],
+        ["crystal-system", "hexagonal"],
+        ["luster", "earthy"]
+      ],
+      [
+        ["mineral", "graphite"],
+        ["chemical-composition", "carbon"]
+      ]
+    ],
+    [
+      [
+        ["color", "black"],
+        ["streak", "black"],
+        ["hardness", ">=1"],
+        ["hardness", "<=2"],
+        ["specific-gravity", ">=2.1"],
+        ["specific-gravity", "<=2.3"],
+        ["crystal-system", "hexagonal"],
+        ["luster", "metallic"]
+      ],
+      [
+        ["mineral", "graphite"],
+        ["chemical-composition", "carbon"]
+      ]
+    ],
+    [
+      [
+        ["color", "black"],
+        ["streak", "black"],
+        ["hardness", ">=1"],
+        ["hardness", "<=2"],
+        ["specific-gravity", ">=2.1"],
+        ["specific-gravity", "<=2.3"],
+        ["crystal-system", "hexagonal"],
+        ["luster", "earthy"]
+      ],
+      [
+        ["mineral", "graphite"],
+        ["chemical-composition", "carbon"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "grey"],
+        ["luster", "metallic"],
+        ["hardness", ">=1.5"],
+        ["hardness", "<=2"],
+        ["specific-gravity", ">=4.6"],
+        ["specific-gravity", "<=4.8"],
+        ["crystal-system", "hexagonal"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "covellite"],
+        ["chemical-composition", "copper sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=1.5"],
+        ["hardness", "<=2"],
+        ["specific-gravity", ">=4.6"],
+        ["specific-gravity", "<=4.8"],
+        ["crystal-system", "hexagonal"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "covellite"],
+        ["chemical-composition", "copper sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "grey"],
+        ["luster", "metallic"],
+        ["hardness", ">=1.5"],
+        ["hardness", "<=2"],
+        ["specific-gravity", ">=4.6"],
+        ["specific-gravity", "<=4.8"],
+        ["crystal-system", "hexagonal"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "covellite"],
+        ["chemical-composition", "copper sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=1.5"],
+        ["hardness", "<=2"],
+        ["specific-gravity", ">=4.6"],
+        ["specific-gravity", "<=4.8"],
+        ["crystal-system", "hexagonal"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "covellite"],
+        ["chemical-composition", "copper sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "grey"],
+        ["luster", "metallic"],
+        ["hardness", ">=1.5"],
+        ["hardness", "<=2"],
+        ["specific-gravity", ">=4.6"],
+        ["specific-gravity", "<=4.8"],
+        ["crystal-system", "hexagonal"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "covellite"],
+        ["chemical-composition", "copper sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=1.5"],
+        ["hardness", "<=2"],
+        ["specific-gravity", ">=4.6"],
+        ["specific-gravity", "<=4.8"],
+        ["crystal-system", "hexagonal"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "covellite"],
+        ["chemical-composition", "copper sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "purple"],
+        ["streak", "grey"],
+        ["luster", "metallic"],
+        ["hardness", ">=1.5"],
+        ["hardness", "<=2"],
+        ["specific-gravity", ">=4.6"],
+        ["specific-gravity", "<=4.8"],
+        ["crystal-system", "hexagonal"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "covellite"],
+        ["chemical-composition", "copper sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "purple"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=1.5"],
+        ["hardness", "<=2"],
+        ["specific-gravity", ">=4.6"],
+        ["specific-gravity", "<=4.8"],
+        ["crystal-system", "hexagonal"],
+        ["fracture", "uneven"]
+      ],
+      [
+        ["mineral", "covellite"],
+        ["chemical-composition", "copper sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "blue"],
+        ["luster", "metallic"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.4"],
+        ["specific-gravity", "<=5"],
+        ["crystal-system", "tetragonal"],
+        ["fracture", "brittle"]
+      ],
+      [
+        ["mineral", "pyrolusite"],
+        ["chemical-composition", "manganese dioxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "blue"],
+        ["luster", "dull"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.4"],
+        ["specific-gravity", "<=5"],
+        ["crystal-system", "tetragonal"],
+        ["fracture", "brittle"]
+      ],
+      [
+        ["mineral", "pyrolusite"],
+        ["chemical-composition", "manganese dioxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.4"],
+        ["specific-gravity", "<=5"],
+        ["crystal-system", "tetragonal"],
+        ["fracture", "brittle"]
+      ],
+      [
+        ["mineral", "pyrolusite"],
+        ["chemical-composition", "manganese dioxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "black"],
+        ["luster", "dull"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.4"],
+        ["specific-gravity", "<=5"],
+        ["crystal-system", "tetragonal"],
+        ["fracture", "brittle"]
+      ],
+      [
+        ["mineral", "pyrolusite"],
+        ["chemical-composition", "manganese dioxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "black"],
+        ["streak", "blue"],
+        ["luster", "metallic"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.4"],
+        ["specific-gravity", "<=5"],
+        ["crystal-system", "tetragonal"],
+        ["fracture", "brittle"]
+      ],
+      [
+        ["mineral", "pyrolusite"],
+        ["chemical-composition", "manganese dioxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "black"],
+        ["streak", "blue"],
+        ["luster", "dull"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.4"],
+        ["specific-gravity", "<=5"],
+        ["crystal-system", "tetragonal"],
+        ["fracture", "brittle"]
+      ],
+      [
+        ["mineral", "pyrolusite"],
+        ["chemical-composition", "manganese dioxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "black"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.4"],
+        ["specific-gravity", "<=5"],
+        ["crystal-system", "tetragonal"],
+        ["fracture", "brittle"]
+      ],
+      [
+        ["mineral", "pyrolusite"],
+        ["chemical-composition", "manganese dioxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "black"],
+        ["streak", "black"],
+        ["luster", "dull"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.4"],
+        ["specific-gravity", "<=5"],
+        ["crystal-system", "tetragonal"],
+        ["fracture", "brittle"]
+      ],
+      [
+        ["mineral", "pyrolusite"],
+        ["chemical-composition", "manganese dioxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "blue"],
+        ["luster", "metallic"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.4"],
+        ["specific-gravity", "<=5"],
+        ["crystal-system", "tetragonal"],
+        ["fracture", "brittle"]
+      ],
+      [
+        ["mineral", "pyrolusite"],
+        ["chemical-composition", "manganese dioxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "blue"],
+        ["luster", "dull"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.4"],
+        ["specific-gravity", "<=5"],
+        ["crystal-system", "tetragonal"],
+        ["fracture", "brittle"]
+      ],
+      [
+        ["mineral", "pyrolusite"],
+        ["chemical-composition", "manganese dioxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.4"],
+        ["specific-gravity", "<=5"],
+        ["crystal-system", "tetragonal"],
+        ["fracture", "brittle"]
+      ],
+      [
+        ["mineral", "pyrolusite"],
+        ["chemical-composition", "manganese dioxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "black"],
+        ["luster", "dull"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.4"],
+        ["specific-gravity", "<=5"],
+        ["crystal-system", "tetragonal"],
+        ["fracture", "brittle"]
+      ],
+      [
+        ["mineral", "pyrolusite"],
+        ["chemical-composition", "manganese dioxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "orange"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "orange"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "pink"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "pink"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "8"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "almost perfect"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "topaz"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "black"],
+        ["streak", "brown"],
+        ["luster", "resinous"],
+        ["hardness", ">=4.5"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=4"],
+        ["specific-gravity", "<=6.7"]
+      ],
+      [
+        ["mineral", "thorite"],
+        ["chemical-composition", "thorium silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "black"],
+        ["streak", "brown"],
+        ["luster", "pitchy"],
+        ["hardness", ">=4.5"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=4"],
+        ["specific-gravity", "<=6.7"]
+      ],
+      [
+        ["mineral", "thorite"],
+        ["chemical-composition", "thorium silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "brown"],
+        ["luster", "resinous"],
+        ["hardness", ">=4.5"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=4"],
+        ["specific-gravity", "<=6.7"]
+      ],
+      [
+        ["mineral", "thorite"],
+        ["chemical-composition", "thorium silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "brown"],
+        ["luster", "pitchy"],
+        ["hardness", ">=4.5"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=4"],
+        ["specific-gravity", "<=6.7"]
+      ],
+      [
+        ["mineral", "thorite"],
+        ["chemical-composition", "thorium silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "brown"],
+        ["luster", "resinous"],
+        ["hardness", ">=4.5"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=4"],
+        ["specific-gravity", "<=6.7"]
+      ],
+      [
+        ["mineral", "thorite"],
+        ["chemical-composition", "thorium silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "brown"],
+        ["luster", "pitchy"],
+        ["hardness", ">=4.5"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=4"],
+        ["specific-gravity", "<=6.7"]
+      ],
+      [
+        ["mineral", "thorite"],
+        ["chemical-composition", "thorium silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "orange"],
+        ["streak", "brown"],
+        ["luster", "resinous"],
+        ["hardness", ">=4.5"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=4"],
+        ["specific-gravity", "<=6.7"]
+      ],
+      [
+        ["mineral", "thorite"],
+        ["chemical-composition", "thorium silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "orange"],
+        ["streak", "brown"],
+        ["luster", "pitchy"],
+        ["hardness", ">=4.5"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=4"],
+        ["specific-gravity", "<=6.7"]
+      ],
+      [
+        ["mineral", "thorite"],
+        ["chemical-composition", "thorium silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["streak", "brown"],
+        ["luster", "resinous"],
+        ["hardness", ">=4.5"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=4"],
+        ["specific-gravity", "<=6.7"]
+      ],
+      [
+        ["mineral", "thorite"],
+        ["chemical-composition", "thorium silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["streak", "brown"],
+        ["luster", "pitchy"],
+        ["hardness", ">=4.5"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=4"],
+        ["specific-gravity", "<=6.7"]
+      ],
+      [
+        ["mineral", "thorite"],
+        ["chemical-composition", "thorium silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "grey"],
+        ["luster", "metallic"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=3"],
+        ["specific-gravity", ">=5.5"],
+        ["specific-gravity", "<=5.8"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "conchoidal"],
+        ["cleavage", "uneven"],
+        ["diaphaneity", "opaque"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "chalcosite"],
+        ["chemical-composition", "copper sulfite"]
+      ]
+    ],
+    [
+      [
+        ["color", "black"],
+        ["streak", "grey"],
+        ["luster", "metallic"],
+        ["hardness", ">=2.5"],
+        ["hardness", "<=3"],
+        ["specific-gravity", ">=5.5"],
+        ["specific-gravity", "<=5.8"],
+        ["crystal-system", "orthorhombic"],
+        ["fracture", "conchoidal"],
+        ["cleavage", "uneven"],
+        ["diaphaneity", "opaque"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "chalcosite"],
+        ["chemical-composition", "copper sulfite"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "poor"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "poor"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "indistinct"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "indistinct"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "poor"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "poor"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "indistinct"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "indistinct"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "poor"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "poor"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "indistinct"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "indistinct"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "violet"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "poor"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "violet"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "poor"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "violet"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "indistinct"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "violet"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "indistinct"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "pink"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "poor"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "pink"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "poor"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "pink"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "indistinct"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "pink"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "indistinct"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "poor"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "poor"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "indistinct"],
+        ["diaphaneity", "transparent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "3"],
+        ["specific-gravity", ">=3.1"],
+        ["specific-gravity", "<=3.3"],
+        ["crystal-system", "hexagonal"],
+        ["cleavage", "indistinct"],
+        ["diaphaneity", "translucent"]
+      ],
+      [
+        ["mineral", "apatite"],
+        ["chemical-composition", "phosphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "blue"],
+        ["luster", "vitreous"],
+        ["hardness", ">=3.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=3.7"],
+        ["specific-gravity", "<=3.9"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["acid-reacted", "true"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "azurite"],
+        ["chemical-composition", "copper carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "blue"],
+        ["streak", "blue"],
+        ["luster", "earthy"],
+        ["hardness", ">=3.5"],
+        ["hardness", "<=4"],
+        ["specific-gravity", ">=3.7"],
+        ["specific-gravity", "<=3.9"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["acid-reacted", "true"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "azurite"],
+        ["chemical-composition", "copper carbonate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "none"],
+        ["luster", "adamantine"],
+        ["hardness", "10"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "isometric"],
+        ["cleavage", "perfect"]
+      ],
+      [
+        ["mineral", "diamond"],
+        ["chemical-composition", "carbon"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["streak", "none"],
+        ["luster", "adamantine"],
+        ["hardness", "10"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "isometric"],
+        ["cleavage", "perfect"]
+      ],
+      [
+        ["mineral", "diamond"],
+        ["chemical-composition", "carbon"]
+      ]
+    ],
+    [
+      [
+        ["color", "orange"],
+        ["streak", "none"],
+        ["luster", "adamantine"],
+        ["hardness", "10"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "isometric"],
+        ["cleavage", "perfect"]
+      ],
+      [
+        ["mineral", "diamond"],
+        ["chemical-composition", "carbon"]
+      ]
+    ],
+    [
+      [
+        ["color", "green"],
+        ["streak", "none"],
+        ["luster", "adamantine"],
+        ["hardness", "10"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "isometric"],
+        ["cleavage", "perfect"]
+      ],
+      [
+        ["mineral", "diamond"],
+        ["chemical-composition", "carbon"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "none"],
+        ["luster", "adamantine"],
+        ["hardness", "10"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "isometric"],
+        ["cleavage", "perfect"]
+      ],
+      [
+        ["mineral", "diamond"],
+        ["chemical-composition", "carbon"]
+      ]
+    ],
+    [
+      [
+        ["color", "purple"],
+        ["streak", "none"],
+        ["luster", "adamantine"],
+        ["hardness", "10"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "isometric"],
+        ["cleavage", "perfect"]
+      ],
+      [
+        ["mineral", "diamond"],
+        ["chemical-composition", "carbon"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "none"],
+        ["luster", "adamantine"],
+        ["hardness", "10"],
+        ["specific-gravity", ">=3.4"],
+        ["specific-gravity", "<=3.6"],
+        ["crystal-system", "isometric"],
+        ["cleavage", "perfect"]
+      ],
+      [
+        ["mineral", "diamond"],
+        ["chemical-composition", "carbon"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "igneous"],
+        ["color", "black"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "igneous"],
+        ["color", "black"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "igneous"],
+        ["color", "black"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "igneous"],
+        ["color", "black"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "igneous"],
+        ["color", "green"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "igneous"],
+        ["color", "green"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "igneous"],
+        ["color", "green"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "igneous"],
+        ["color", "green"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "igneous"],
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "igneous"],
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "igneous"],
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "igneous"],
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["color", "black"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["color", "black"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["color", "black"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["color", "black"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["color", "green"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["color", "green"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["color", "green"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["color", "green"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["rock-group", "metamorphic"],
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", ">=5"],
+        ["hardness", "<=6"],
+        ["specific-gravity", ">=2.9"],
+        ["specific-gravity", "<=3.5"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "hornblende"],
+        ["chemical-composition", "silicate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "colorless"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "red"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "vitreous"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "flexible"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "white"],
+        ["luster", "silky"],
+        ["hardness", "2"],
+        ["specific-gravity", "2.3"],
+        ["crystal-system", "monoclinic"],
+        ["cleavage", "perfect"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "inelastic"]
+      ],
+      [
+        ["mineral", "gypsum"],
+        ["chemical-composition", "sulphate"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["streak", "green"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.9"],
+        ["specific-gravity", "<=5.2"],
+        ["crystal-system", "isometric"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "pyrite"],
+        ["chemical-composition", "iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["streak", "brown"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.9"],
+        ["specific-gravity", "<=5.2"],
+        ["crystal-system", "isometric"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "pyrite"],
+        ["chemical-composition", "iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "green"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.9"],
+        ["specific-gravity", "<=5.2"],
+        ["crystal-system", "isometric"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "pyrite"],
+        ["chemical-composition", "iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "brown"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.9"],
+        ["specific-gravity", "<=5.2"],
+        ["crystal-system", "isometric"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "pyrite"],
+        ["chemical-composition", "iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "green"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.9"],
+        ["specific-gravity", "<=5.2"],
+        ["crystal-system", "isometric"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "pyrite"],
+        ["chemical-composition", "iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "white"],
+        ["streak", "brown"],
+        ["streak", "black"],
+        ["luster", "metallic"],
+        ["hardness", ">=6"],
+        ["hardness", "<=6.5"],
+        ["specific-gravity", ">=4.9"],
+        ["specific-gravity", "<=5.2"],
+        ["crystal-system", "isometric"],
+        ["diaphaneity", "opaque"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "pyrite"],
+        ["chemical-composition", "iron sulfide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "colorless"],
+        ["luster", "adamantine"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "colorless"],
+        ["luster", "adamantine"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "uneven"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "colorless"],
+        ["luster", "adamantine"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "colorless"],
+        ["luster", "adamantine"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "uneven"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "uneven"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "grey"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "uneven"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "adamantine"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "adamantine"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "uneven"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "adamantine"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "adamantine"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "uneven"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "transparent"],
+        ["fracture", "uneven"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "conchoidal"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "colorless"],
+        ["luster", "vitreous"],
+        ["hardness", "9"],
+        ["specific-gravity", ">=3.9"],
+        ["specific-gravity", "<=4.1"],
+        ["crystal-system", "hexagonal"],
+        ["diaphaneity", "translucent"],
+        ["fracture", "uneven"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "corundum"],
+        ["chemical-composition", "aluminium oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "yellow"],
+        ["color", "brown"],
+        ["streak", "yellow"],
+        ["streak", "brown"],
+        ["luster", "earthy"],
+        ["hardness", ">=1"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=4.3"],
+        ["crystal-system", "cryptocrystalline"],
+        ["diaphaneity", "opaque"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "limonite"],
+        ["chemical-composition", "hydrated iron oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "brown"],
+        ["streak", "yellow"],
+        ["streak", "brown"],
+        ["luster", "earthy"],
+        ["hardness", ">=1"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=4.3"],
+        ["crystal-system", "cryptocrystalline"],
+        ["diaphaneity", "opaque"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "limonite"],
+        ["chemical-composition", "hydrated iron oxide"]
+      ]
+    ],
+    [
+      [
+        ["color", "black"],
+        ["streak", "yellow"],
+        ["streak", "brown"],
+        ["luster", "earthy"],
+        ["hardness", ">=1"],
+        ["hardness", "<=5"],
+        ["specific-gravity", ">=2.7"],
+        ["specific-gravity", "<=4.3"],
+        ["crystal-system", "cryptocrystalline"],
+        ["diaphaneity", "opaque"],
+        ["tenacity", "brittle"]
+      ],
+      [
+        ["mineral", "limonite"],
+        ["chemical-composition", "hydrated iron oxide"]
+      ]
+    ]
+  ],
+  "continuous_vars": {
+    "fields": ["hardness", "specific-gravity"],
+    "turning_points": [
+      [
+        1.0, 2.5, 3.5, 3.0, 4.0, 6.0, 6.5, 5.0, 7.0, 2.0, 1.5, 8.0, 4.5, 10.0,
+        9.0
+      ],
+      [
+        2.7, 2.5, 4.3, 2.8, 5.0, 7.4, 7.6, 5.3, 5.2, 3.0, 3.4, 4.6, 6.7, 3.5,
+        4.4, 4.0, 4.9, 4.1, 5.5, 2.6, 2.1, 3.6, 3.1, 2.3, 3.3, 3.7, 4.8, 5.8,
+        2.4, 2.9, 3.9
+      ]
+    ]
+  }
+}

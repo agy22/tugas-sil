@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mineral Classification</title>
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}"> -->
+</head>
+
+<body>
+    <div>
+        <h3>Observation</h1>
+            <div>
+                <form action="{{ url_for('handle_data') }}" method="post">
+                    <label for="rock_group">Rock group:</label>
+                    <select id="rock_group" name="rock_group">
+                        <option disabled selected value> -- select an option -- </option>
+                        <option value="igneous">Igneous</option>
+                        <option value="metamorphic">Metamorphic</option>
+                        <option value="sedimentary">Sedimentary</option>
+                    </select><br>
+                    <label for="colors">Observed colors:</label>
+                    <input type="text" id="colors" name="colors"><br>
+                    <label for="streaks">Observed streaks:</label>
+                    <input type="text" id="streaks" name="streaks"><br>
+                    <label for="hardness">Mohs hardness:</label>
+                    <input type="number" step="0.01" id="hardness" name="hardness"><br>
+                    <label for="specific_gravity">Specific gravity:</label>
+                    <input type="number" step="0.01" id="specific_gravity" name="specific_gravity"><br>
+                    <label for="luster">Luster:</label>
+                    <select id="luster" name="luster">
+                        <option disabled selected value> -- select an option -- </option>
+                        <option value="adamantine">Adamantine</option>
+                        <option value="dull">Dull</option>
+                        <option value="earthy">Earthy</option>
+                        <option value="metallic">Metallic</option>
+                        <option value="pearly">Pearly</option>
+                        <option value="pitchy">Pitchy</option>
+                        <option value="resinous">Resinous</option>
+                        <option value="silky">Silky</option>
+                        <option value="sub-metallic">Sub-metallic</option>
+                        <option value="vitreous">Vitreous</option>
+                    </select><br>
+                    <label for="fracture">Fracture:</label>
+                    <select id="fracture" name="fracture">
+                        <option disabled selected value> -- select an option -- </option>
+                        <option value="almost perfect">Almost perfect</option>
+                        <option value="brittle">Brittle</option>
+                        <option value="conchoidal">Conchoidal</option>
+                        <option value="flaky">Flaky</option>
+                        <option value="irregular">Irregular</option>
+                        <option value="uneven">Uneven</option>
+                    </select><br>
+                    <label for="tenacity">Tenacity:</label>
+                    <select id="tenacity" name="tenacity">
+                        <option disabled selected value> -- select an option -- </option>
+                        <option value="brittle">Brittle</option>
+                        <option value="flexible">Flexible</option>
+                        <option value="inelastic">Inelastic</option>
+                    </select><br>
+                    <label for="weathered">Weathered:</label>
+                    <input type="checkbox" id="weathered" name="weathered" value="weathered"><br>
+                    <label for="magnetic">Magnetic:</label>
+                    <input type="checkbox" id="magnetic" name="magnetic" value="magnetic"><br>
+                    <label for="crystal_system">Crystal system:</label>
+                    <select id="crystal_system" name="crystal_system">
+                        <option disabled selected value> -- select an option -- </option>
+                        <option value="cryptocrystalline">Cryptocrystalline</option>
+                        <option value="hexagonal">Hexagonal</option>
+                        <option value="isometric">Isometric</option>
+                        <option value="monoclinic">Monoclinic</option>
+                        <option value="orthorhombic">Orthorhombic</option>
+                        <option value="pseudohexagonal">Pseudohexagonal</option>
+                        <option value="tetragonal">Tetragonal</option>
+                    </select><br>
+                    <label for="diaphaneity">Diaphaneity:</label>
+                    <select id="diaphaneity" name="diaphaneity">
+                        <option disabled selected value> -- select an option -- </option>
+                        <option value="transparent">Transparent</option>
+                        <option value="translucent">Translucent</option>
+                        <option value="opaque">Opaque</option>
+                    </select><br>
+                    <label for="cleavage">Cleavage:</label>
+                    <select id="cleavage" name="cleavage">
+                        <option disabled selected value> -- select an option -- </option>
+                        <option value="indistinct">Indistinct</option>
+                        <option value="poor">Poor</option>
+                        <option value="uneven">Uneven</option>
+                        <option value="almost perfect">Almost perfect</option>
+                        <option value="perfect">Perfect</option>
+                    </select><br>
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+            <div>
+                <p>Minerals: {{ minerals }}</p>
+                <p>Chemical composition: {{ chemical_composition }}</p>
+            </div>
+    </div>
+</body>
