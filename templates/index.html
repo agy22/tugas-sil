@@ -9,12 +9,14 @@
 </head>
 
 <body>
+    <header id="header"><p>Sistem Informasi Lanjutan - Knowledge Base System</p></header>
     <div>
-        <h1>Observation</h1>
-            <div class="row">
-                <div class="column">
-                <h3>Input Characteristics</h3>
-                <form action="{{ url_for('handle_data') }}" method="post">
+        <div id="container">
+            <main id="center">
+                <div id= "left" class="column">
+                    <h3>Input Characteristics</h3>
+                    <form action="{{ url_for('handle_data') }}" method="post">
+                    <div class="column">
                 <p>
                     <label for="rock_group">Rock group:</label>
                     <select id="rock_group" name="rock_group">
@@ -68,6 +70,8 @@
                         <option value="uneven">Uneven</option>
                     </select><br>
                 </p>
+                    </div>
+                    <div class="column">
                 <p>
                     <label for="tenacity">Tenacity:</label>
                     <select id="tenacity" name="tenacity">
@@ -121,20 +125,24 @@
                     <input type="submit" value="Submit">
                 </p>
                 </form>
+                    </div>
                 </div>
-                <div class="column">
+                <div id= "right" class="column">
                 <h3>Results</h3>
                     <p>Minerals:</p>
-                    <p>{{ minerals }}</p>
+                    <p>{{ (minerals)  }}</p>
                 <p>
                     <p>Chemical composition: </p>
-                    <p>{{ chemical_composition }}</p>
-                </div>
-            </div>
-            <div class="row">
-                <h3>Help</h3>
-                <p>User dapat memasukkan input karakteristik mineral/batuan, kemudian menekan tombol Submit.</p>
-                <p>Aplikasi akan menentukan jenis mineral dan komposisi kimia berdasarkan input dari user dan menampilkan hasilnya pada bagian Results</p>
-            </div>
+                    <p>{{ (chemical_composition)  }}</p>
+                </div>						
+            </main>
+        </div>
+    </div>
+    <div id="footer-wrapper">
+		<footer id="footer">
+        <p> Dibuat oleh Mhd. Hiro Agayeff Muslion / 13519070 dan Jusuf Junior Athala / 13519174 </p>
+        <p>User dapat memasukkan input karakteristik mineral/batuan (beberapa karakteristik dapat dikosongkan), kemudian menekan tombol Submit.</p>
+        <p>Aplikasi akan menentukan jenis mineral dan komposisi kimia berdasarkan input dari user dan menampilkan hasilnya pada bagian Results</p>
+    </footer>
     </div>
 </body>

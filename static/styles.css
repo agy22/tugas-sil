@@ -1,11 +1,66 @@
-.column {
+/* Layout */
+body {
+  min-width: 630px;
+}
+
+#container {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#center {
+  padding: 10px 20px;
+  width: 100%;
+}
+
+
+#footer {
+  clear: both;
+}
+
+
+/* Fix for the footer */
+* html body {
+  overflow: hidden;
+}
+
+* html #footer-wrapper {
+  float: left;
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  background: #fff;
+}
+
+/* Aesthetics */
+body {
+  margin: 0;
+  padding: 0;
+  font-family:Sans-serif;
+  line-height: 1.5em;
+}
+
+
+#header, #footer {
+  font-size: large;
+  padding: 0.3em;
+  background: #BCCE98;
+}
+#center {
+  background: #fff;
+}
+
+.column { 
+  position: relative;
     float: left;
-    width: 50%;
+    width: 45%;
+    
   }
-  
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
+
+  #left {
+    border-right: 1px solid;
+  }
+
+  #right {
+    padding-left : 10px;
   }
